@@ -1,5 +1,11 @@
 RunInBash #neosmart/RunInBash
 RunInGenie #arkane-systems/RunInGenie
 genie      #arkane-systems/genie
+scoop
+    delta
+    starship
+    git
+    7zip
+    oh-my-posh
 
 
